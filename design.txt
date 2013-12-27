@@ -1,0 +1,192 @@
+HALL PASS PLEASE
+================
+
+Hall Pass Please is a document-checking role-playing game.  Navigate the
+minefields of high school politics while attempting to bring order to the
+hallways, earn extra credit, and perhaps even find a date for prom.
+
+Hall Pass Please is an homage to (or ripoff of) Papers Please from 3909.
+
+
+Story
+=====
+
+You are a student at Arizotska High School.  Go Smoking Lemurs!
+You've enlisted as hall monitor for extra credit in your social studies class.
+Perform your duties well, and you will bring peace and honor to the hallways.
+Blow it, and you will have to attend summer school.
+
+
+Mechanics
+=========
+
+All actions are performed by clicking/tapping and dragging, on documents and
+various tools.
+
+The game screen is split into three panes.  Along the top is a wide view of a
+school hallway, where students walk by.  On the bottom right is your
+interactive work area, where documents can be freely arranged and studied.  A
+small pane at the bottom left contains a chat-style transcript of the current
+conversation.
+
+Extra credit points will be awarded for allowing and denying students properly
+and preventing shenanigans, without bothering faculty.  If enough points are
+collected by the end of the year, the extra credit will save you from summer
+school.
+
+Students passing by should stop at the center of the screen and talk to you.
+If one fails to do so, blowing your whistle will alert them (and any security
+guards present).  Faculty do not need to stop, but some may talk anyway.
+Interrogating a faculty member for a hall pass is usually a bad idea.
+
+Hallway
+-------
+
+Depending on the day and scenario, the hallway may have a number of features.
+
+Lockers
+  Most hallways will contain many lockers, at which students might stop to
+  take or leave items.
+
+Fountain
+  A drinking fountain may be present, at which somebody might stop and/or turn
+  around.
+
+Fire alarm
+  If you or a student pulls the fire alarm, your hall monitor shift will end
+  and you will need to explain what happened.
+
+Work area
+---------
+
+The work area can contain many documents, which contain important pieces of
+information that that the player will need to use to decide whether to permit
+or deny passage to a student, or even give them detention.
+
+Rule sheet
+  Every day, a rule sheet is issued which explains the protocols expected to
+  be observed.  A brief, outline-form version of the day's rule sheet stays in
+  the work area.
+
+Notebook
+  The notebook contains a list of teachers along with their respective
+  departments, room numbers, and sample signatures.
+
+Map
+  A map of the school shows your current station and the locations of all the
+  rooms.  It can be used to verify whether a student's story checks out.
+
+Whistle
+  Using the whistle will call anybody in the hallway (and any nearby security)
+  to attention.  Security guards can escort stubborn students or catch any who
+  try to run away.
+
+Trash
+  Forged documents, contraband, and other junk can be thrown away.
+
+Trapper keeper
+  Your own notes or other items (including bribes) can be stowed in your
+  trapper keeper.
+
+Approved / denied stamps
+  Stamping a student's pass (or a stub, if they have none) will allow them to
+  continue on their way or send them back.
+
+Hall pass
+  Upon encountering a student, you will prompt them for their hall pass.  A
+  valid hall pass will be signed by a faculty member.  It may also specify a
+  time range, be stamped, or contain other information depending on the rules
+  of the day.
+
+Student ID
+  Depending on the rules of the day, a student may be required to present his
+  or her student ID as well.  It will contain their photo, class, ID number,
+  birthday, gender, and other information.
+
+Conversation transcript
+-----------------------
+
+When an encounter begins, everything said appears in the transcript window,
+which can be scrolled back to verify information or point out discrepancies.
+
+The transcript window also contains a clock and calendar.
+
+
+Progression
+===========
+
+As the game continues, more elements are introduced.  The order and specific
+days when new mechanics or sub-stories begin can vary depending on choices and
+performance.
+
++ mechanics
+  + pass inspection
+    - signature validation
+    - stamp validation
+  + student id inspection
+    - name and photo matching
+    - class verification
+  + map validation
+    - route check
+  - whistle
+  + contraband
+    - gum ban
+    - slap bracelet ban
+    - egg ban
+  + detention
+    - tempered detention
++ story
+  + prom
+    - send an anonymous valentine
+    - let something slide
+    - hold this
+  + underground
+    - detention to forgers
+... 
+
+Pass inspection
+  Your hall monitor duties begin today.  Make sure all students passing by
+  have a signed hall pass from their teacher.  Teachers are listed in your
+  notebook.
+
+Signature validation
+  Forged hall passes have been discovered.  Your notebook has been updated
+  with authentic teacher signatures.  Deny passage to anyone without a
+  properly-signed pass.
+
+Stamp validation
+  As an additional security measure, all hall passes must now be stamped.
+  Stamp shapes are assigned by department.  Valid stamps have been added to
+  your notebook.
+
+Whistle
+  In reaction to recent hallway shenanigans, additional security has been
+  recruited, and each hall monitor will now be issued a whistle.  Blow it to
+  call security over to help you deal with troublemakers.
+
+Contraband
+  Hall monitors are to confiscate any contraband found on passing students.
+  A list of contraband has been added to your notebook.
+
+Detention
+  You now have the authority to assign detention to students without proper
+  passes or identification.
+
+Tempered detention
+  Due to abuse of hall monitor power, a reason must be documented when
+  assigning detention.  Forms for reporting discrepancies have been provided.
+
+
+random ideas
++ stamps from different departments - science, english etc
+  - science: atom, flask, frog
+- forged rules-of-the-day document
+- upcoming dance
+- kids going off to take drivers test
++ underground organization
+  - looking to overthrow corrupt student president
++ power to give detention
+  - some monitors abusing power, need to specify reason
+- contraband: gum, water balloons, cigarettes, trendy bracelets, cards
++ other hall monitors
+  - some always corrupt/lenient, makes you all look bad, troublemakers route
